@@ -21,10 +21,10 @@ h1{
     font-size: 48px; 
 }
 
-/* now obsolete syntax due to html header simplification following semantic restructure */
-/* .header h1 .seo {
+
+.header h1 .seo {
     color: #d9dcd6;
-} */
+}
 
 nav{
     padding-top: 15px;
