@@ -76,8 +76,8 @@ section {
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
+/* aside selector has replaced "benefits" class */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
