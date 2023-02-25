@@ -52,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-figure {
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -70,8 +70,8 @@ figure {
     float: right;
     margin-left: 25px;
 }
-
-.content {
+/* 'section' element selector replaced '.content' class selector.  */
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
