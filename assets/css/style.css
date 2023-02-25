@@ -21,9 +21,14 @@ h1{
     font-size: 48px; 
 }
 
-
-.header h1 .seo {
+header .seo{
     color: #d9dcd6;
+}
+
+header ul li{
+    display: inline-block;
+    margin-left: 25px;
+    list-style-type: none;
 }
 
 nav{
@@ -32,15 +37,6 @@ nav{
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
-/* syntax was found redundant */
-/* .header div ul {
-    list-style-type: none;
-} */
-
-header ul li{
-    display: inline-block;
-    margin-left: 25px;
 }
 
 a {
