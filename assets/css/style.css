@@ -75,6 +75,10 @@ p {
 }
 
 /* selector for section tags nested within main */
+main {
+    display: inline;
+}
+
 main section {
     width: 75%;
     display: inline-block;
@@ -141,7 +145,3 @@ footer h2 {
     font-size: 20px;
 }
 
-main, aside{
-    display: inline;
-    box-sizing: border-box;
-}
